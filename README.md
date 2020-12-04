@@ -1,7 +1,16 @@
-<img src="https://user-images.githubusercontent.com/26049727/101113478-75637a00-35ad-11eb-8058-01521cfffbd5.png" alt="Nicholas Jones Logo" width="100%" >
+
+
 
 <!-- 
-[![Nicholas-Jones-Name-Logo](https://user-images.githubusercontent.com/26049727/101113478-75637a00-35ad-11eb-8058-01521cfffbd5.png)](https://mynameisnicholasjones.com/)
+
+
+<img src="(https://user-images.githubusercontent.com/26049727/101115551-8f06c080-35b1-11eb-8308-d5a322e1262d.png)" alt="Nicholas Jones Logo" width="100%">
+
+[![Nicholas-Jones-Name-Logo](https://user-images.githubusercontent.com/26049727/101115551-8f06c080-35b1-11eb-8308-d5a322e1262d.png)](https://mynameisnicholasjones.com/)
+
+
+![Nicholas-Jones-Logo](https://user-images.githubusercontent.com/26049727/101115551-8f06c080-35b1-11eb-8308-d5a322e1262d.png)
+
 -->
 
 # My name is Nicholas Jones.
