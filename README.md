@@ -1,4 +1,4 @@
-### My name is Nicholas Jones.
+# My name is Nicholas Jones.
 
 ## I am a front-end developer.
 
