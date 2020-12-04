@@ -1,4 +1,6 @@
-### Hi there 👋
+### My name is Nicholas Jones.
+
+## I am a front-end developer.
 
 <!--
 **mynameisnicholasjones/mynameisnicholasjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
