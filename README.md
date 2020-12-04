@@ -1,4 +1,5 @@
-![Nicholas-Jones-Name-Logo](https://user-images.githubusercontent.com/26049727/101113478-75637a00-35ad-11eb-8058-01521cfffbd5.png)(https://mynameisnicholasjones.com/)
+
+[![Nicholas-Jones-Name-Logo](https://user-images.githubusercontent.com/26049727/101113478-75637a00-35ad-11eb-8058-01521cfffbd5.png)](https://mynameisnicholasjones.com/)
 
 # My name is Nicholas Jones.
 
