@@ -1,6 +1,6 @@
 # My name is Nicholas Jones.
 
-### I am a front-end developer.
+### I am a front-end developer, specializing in React.
 
 ### Languages and Tools:
 
