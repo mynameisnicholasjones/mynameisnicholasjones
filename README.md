@@ -1,6 +1,6 @@
 # My name is Nicholas Jones.
 
-### I am a front-end developer, specializing in React.
+### I am a self-taught front-end web developer focusing on the React javascript library. I am located in mainland USA. Some of the skills demonstrated in my protfolio are Javascript, React, Redux, and Flexbox.
 
 ### Languages and Tools:
 
